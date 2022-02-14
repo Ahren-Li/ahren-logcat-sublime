@@ -1,0 +1,8 @@
+{
+    "dependencies": [],
+    "version": "2019.09.09.15.55.40",
+    "url": "https://github.com/ahren",
+    "description": "Android Debug Bridge Logcat view",
+    "platforms": ["*"],
+    "sublime_text": "*"
+}
